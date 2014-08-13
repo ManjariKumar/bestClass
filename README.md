@@ -1,0 +1,4 @@
+bestClass
+=========
+
+PHP version
